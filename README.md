@@ -127,11 +127,11 @@ ExameEDII_Turma_NGrupo/
 
 | Membro | Responsabilidade |
 |--------|------------------|
-| David Miguel Teca Nzazi- 20190208 | TAD Grafo e Tabela Hash; integração |
+| David Miguel Teca Nzazi | TAD Grafo e Tabela Hash; integração |
 | Kelvin Cucubica- 20220056  | TAD Fila e BFS (caminho da água, rotura) |
 | Kelvin Cucubica- 20220056  | Nós críticos e pontes |
 | Garcia Neto Cassange - 20242990 | Isolamento de vazamentos e ficheiros |
-| David Miguel Teca Nzazi- 20190208| Menu, testes e relatório |
+| David Miguel Teca Nzazi| Menu, testes e relatório |
 
 ---
 Docente: Sílvia António — ISPTEC, 2026

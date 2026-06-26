@@ -1,0 +1,19 @@
+8 10
+Estacao
+Maianga
+Talatona
+Kilamba
+Cazenga
+Viana
+Rangel
+Cacuaco
+Estacao Maianga 800
+Estacao Talatona 1200
+Maianga Talatona 500
+Maianga Kilamba 600
+Talatona Kilamba 700
+Kilamba Cazenga 900
+Cazenga Viana 1000
+Cazenga Rangel 650
+Rangel Cacuaco 750
+Cacuaco Cazenga 1100
